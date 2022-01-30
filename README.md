@@ -1,5 +1,2 @@
-# WhoIskant
-
-
-
-this is second line now i a kiran deo
+# hello every one my name is k deo 
+kjdab
